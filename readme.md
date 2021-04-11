@@ -1,1 +1,1 @@
-Js cls
+Js cls - lesson 2
